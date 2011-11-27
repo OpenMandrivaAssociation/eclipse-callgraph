@@ -5,7 +5,7 @@
 
 Name:           eclipse-callgraph
 Version:        0.6.1
-Release:        2
+Release:        4
 Summary:        C/C++ Call Graph Visualization Tool
 
 Group:          Development/Java
