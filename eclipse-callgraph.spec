@@ -10,7 +10,7 @@ Summary:        C/C++ Call Graph Visualization Tool
 
 Group:          Development/Java
 License:        EPL
-URL:            http://eclipse.org/linuxtools
+URL:            https://eclipse.org/linuxtools
 # sh %{name}-fetch-src.sh
 Source0:        %{name}-fetched-src-%{src_repo_tag}.tar.bz2
 Source1:        %{name}-fetch-src.sh
